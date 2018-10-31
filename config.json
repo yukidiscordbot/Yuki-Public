@@ -1,0 +1,15 @@
+{
+    "token": "bot_token",
+    "prefix": "bot_prefix",
+    "ownerIds": [
+        "discord_user_id",
+        "discord_user_id"
+   ],
+    "presence": {
+        "status": "online",
+        "activity": {
+            "name": "${this.client.users.size}",
+            "type": "PLAYING"
+        }
+    }
+}
