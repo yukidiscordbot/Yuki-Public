@@ -10,8 +10,8 @@ This section will explain how to set up the bot, what you are allowed to do, and
 - Make sure [NPM](https://www.npmjs.com/) is installed with NodeJS (or another NodeJS package manager)
 - Make sure you have [Git](https://git-scm.com/) installed
 
-#### Setting Up
-1. Clone this repository (`git clone https://github.com/dinohost-public`)
+#### Setting Up (Self Hosting)
+1. Clone this repository (`https://github.com/SplitXPlayZ/DinoHost-public`)
 2. CD into the directory you cloned the repository into (`cd DinoHost`)
 3. Run the command `npm install` (this may take a while)
 4. Rename `config.example.json` to `config.json`
