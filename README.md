@@ -1,5 +1,6 @@
-# DinoHost
-A new source code bot.
+# Yuki
+A discord bot.
+Follow us on twitter! (https://twitter.com/yukidiscordbot)
 
 ## Self Hosting Guide
 This section will explain how to set up the bot, what you are allowed to do, and what you are not allowed to do when hosting this bot for your own server or for the public. The setup for this bot assumes you have basic knowledge of using NodeJS, NPM, the Git CLI, and basic command line usage.
@@ -20,8 +21,8 @@ This section will explain how to set up the bot, what you are allowed to do, and
 7. Enjoy your new self hosted version of PollBot!
 
 #### Hosting on Glitch.com
-1. Go to https://glitch.com/edit/#!/dinohost-public
-2. Click the down arrow to the right of DinoHost in the top left corner
+1. Go to https://glitch.com/edit/#!/yuki-public
+2. Click the down arrow to the right of Yuki in the top left corner
 3. Press the `Remix This or Remix Project` button.
 4. Open `config.json`
 5. Fill out the JSON file to the proper settings for you and your bot account
