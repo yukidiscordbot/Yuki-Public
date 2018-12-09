@@ -1,14 +1,14 @@
 {
-    "token": "bot_token",
-    "prefix": "bot_prefix",
+    "token": "NDg5MjE5NDI4MzU4MTYwMzg1.DuhKkg.VacS25s9_RWdIUETNQ-9zVixwTU",
+    "prefix": "y!",
+    "shards": "3",
     "ownerIds": [
-        "discord_user_id",
-        "discord_user_id"
-   ],
+        "440475713523417088"
+    ],
     "presence": {
         "status": "online",
         "activity": {
-            "name": "${this.client.users.size}",
+            "name": "${this.config.prefix}help in ${this.client.guilds.size} servers",
             "type": "PLAYING"
         }
     }

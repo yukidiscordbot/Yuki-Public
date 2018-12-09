@@ -1,12 +1,26 @@
+const Discord = require("discord.js");
+const botconfig = require("../config.json");
+
 module.exports = class {
     constructor() {
         this.help = {
             category: ":checkered_flag: Speciális",
-            description: "Hívd meg botodat a szerveredre."
+            description: "Egy felhasználónak beállítja hogy ne zavarják!"
         };
     }
 
-    run(bot, m, args) {
-        return m.channel.send(`:white_check_mark: **Bot Meghívó LINK**\n Csatlakoztasd a te saját discord szerveredhez. https://discordapp.com/oauth2/authorize?client_id=489219428358160385&permissions=201850064&redirect_uri=http%3A%2F%2Fsplitxdiscordbots.weebly.com&response_type=code&scope=bot%20guilds%20guilds.join%20gdm.join%20messages.read`);
-    }
-};
+    async run (bot, message, args) {
+
+    let prefix = botconfig.prefix;
+    if (!message.content.startsWith(prefix)) return;
+    let botembed = new Discord.RichEmbed()
+        .addField("My bot invite is", `[Click Here](https://discordapp.com/oauth2/authorize?client_id=489219428358160385&permissions=201780305&redirect_uri=https%3A%2F%2Fdinohost4.webnode.hu%2Fparancs&scope=bot)`)
+        .addField("Without permissions", `[Click Here](https://discordapp.com/api/oauth2/authorize?client_id=489219428358160385&permissions=26688&redirect_uri=https%3A%2F%2Fdinohost4.webnode.hu%2Fparancs&scope=bot)`)
+        .setFooter(`Requested by ${message.author.username}#${message.author.discriminator}`, message.author.displayAvatarURL)
+        .setTimestamp()
+        .setColor('RANDOM');
+
+    message.channel.send(botembed);
+}
+
+}

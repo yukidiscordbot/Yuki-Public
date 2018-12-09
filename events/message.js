@@ -1,3 +1,4 @@
+const Discord = require('discord.js');
 module.exports = class {
     run(bot, m) {
         if (m.author.bot) return;
@@ -5,7 +6,10 @@ module.exports = class {
         bot.getConfig();
         const prefix = bot.config.prefix;
 
-        if ((new RegExp(`^<@!?${bot.client.user.id}>$`)).exec(m.content)) return m.reply("please use with dh!segítség or <@489219428358160385> segítség to get the help list."); 
+        if ((new RegExp(`^<@!?${bot.client.user.id}>$`)).exec(m.content)) return m.channel.sendEmbed(new Discord.RichEmbed()
+      .setColor(`#a821f9`)
+      .setTitle("Hello there!")
+      .setDescription(`My prefix is \`${prefix}\`. Try \`${prefix}poll\` to make a poll or \`${prefix}help\` to get some command help!`));
         const mainPrefix = m.content.toLowerCase().startsWith(prefix.toLowerCase());
         const mention = (new RegExp(`^<@!?${bot.client.user.id}> `)).exec(m.content);
 

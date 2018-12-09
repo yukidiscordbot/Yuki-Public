@@ -1,3 +1,5 @@
-const { PollBot } = require('./DinoHost.js'); 
-const bot = new PollBot('./config.json'); 
-bot.login()
+const { Yuki } = require('./Yuki.js');
+
+const bot = new Yuki('./config.json');
+
+bot.login();

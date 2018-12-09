@@ -1,6 +1,6 @@
 module.exports = class {
     run(bot) {
-        console.log(`Csatlakozva mint ${bot.client.user.tag} felhasználó.`);
+        console.log(`Bot started as ${bot.client.user.tag} user!`);
 
         bot.setActivity();
 
