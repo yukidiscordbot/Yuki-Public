@@ -1,2 +1,2 @@
-# Important!
-Use the glitch version.
+# !WARNING!
+The Public version of Yuki is now being remade.
