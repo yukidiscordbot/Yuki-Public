@@ -1,0 +1,10 @@
+{
+    "token": "<YourTokenHere>",
+    "prefix": "<YourPrefix>",
+        "ownerIds": [
+        "URID1",
+        "URID2"
+    ]
+        }
+    }
+}
