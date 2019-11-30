@@ -1,9 +1,9 @@
 {
-    "token": "<YourTokenHere>",
-    "prefix": "<YourPrefix>",
+    "token": "Your Own Discord bot token",
+    "prefix": "yourownprefix (examples: !, ., +, -)",
         "ownerIds": [
-        "URID1",
-        "URID2"
+        "YourID1",
+        "YourID2"
     ]
         }
     }
