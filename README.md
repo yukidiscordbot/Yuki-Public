@@ -18,4 +18,4 @@ First, rename config.json.example to config.json. Do not host on GitHub.
 ## ▶ Social Stuff
 [Official Support](https://discord.gg/ck8kajr)
 [Bot Invite](https://discordapp.com/oauth2/authorize?client_id=489219428358160385&permissions=1543859415&scope=bot)
-[Dashboard (BETA)](https://yuki-canary.glitch.me)
+[Official Website](https://yukibot.xyz)
