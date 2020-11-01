@@ -15,7 +15,13 @@ The source code for the bot was under recode. I will make it for dummies.
 First, rename config.json.example to config.json. Do not host on GitHub.
 
 
+## ▶ Archives
+Click [archives](https://github.com/yukidiscordbot/Yuki-Public/tree/archives) to get the old version and codes behind Yuki.
+Follow the **LICENSE** on that tree.
+
+
 ## ▶ Social Stuff
-[Official Support](https://discord.gg/ck8kajr)
-[Bot Invite](https://discordapp.com/oauth2/authorize?client_id=489219428358160385&permissions=1543859415&scope=bot)
-[Official Website](https://yukibot.xyz)
+[Twitter](https://twitter.com/YukiDiscordBot)
+[Discord](https://discord.gg/ck8kajr)
+[Invite](https://discordapp.com/oauth2/authorize?client_id=489219428358160385&permissions=1543859415&scope=bot)
+[Website](https://yukibot.xyz)
