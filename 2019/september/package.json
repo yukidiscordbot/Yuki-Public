@@ -1,0 +1,78 @@
+{
+  "name": "Yuki",
+  "version": "4.5.1",
+  "description": "An private discord bot.",
+  "main": "server.js",
+  "dependencies": {
+    "sqlite": "^3.0.3",
+    "express": "^4.16.4",
+    "node-superfetch": "0.1.9",
+    "node-fetch": "^2.6.0",
+    "discord.js": "^11.4.2",
+    "discord.js-commando": "^0.10.0",
+    "superagent": "^5.0.5",
+    "cheerio": "^0.22.0",
+    "request": "^2.88.0",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.2.2",
+    "request-promise-native": "^1.0.7",
+    "ms": "^2.1.1",
+    "cpu-stat": "^2.0.1",
+    "os": "^0.1.1",
+    "random-puppy": "^1.1.0",
+    "canvas-constructor": "^3.0.0",
+    "snekfetch": "^4.0.4",
+    "canvas": "^2.5.0",
+    "weather-js": "^2.0.0",
+    "node-osu": "^1.3.2",
+    "moment-duration-format-frequency": "^1.1.0",
+    "moment-timezone": "^0.5.25",
+    "figlet": "^1.2.2",
+    "mathjs": "^5.10.3",
+    "qrcode": "^1.3.3",
+    "tempy": "^0.3.0",
+    "fortnite": "^4.3.2",
+    "mal-scraper": "^2.6.2",
+    "relevant-urban": "^2.0.0",
+    "os-name": "^3.1.0",
+    "os-utils": "^0.0.14",
+    "pretty-ms": "^5.0.0",
+    "platform": "^1.3.5",
+    "steam-provider": "^0.2.0",
+    "jimp": "^0.6.4",
+    "blapi": "^1.1.0",
+    "spacebots": "^0.3.2",
+    "parse-ms": "^2.0.0",
+    "common-tags": "^1.8.0",
+    "urban": "^0.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/sdfsdfsdf1234/PollBot.git"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "keywords": [
+    "discord",
+    "pollbot",
+    "poll",
+    "bot",
+    "discord",
+    "poll",
+    "bot",
+    "discord",
+    "bot"
+  ],
+  "author": "SplitXPlayZ",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://dinohost4.webnode.hu/issues"
+  },
+  "homepage": "https://dinohost4.webnode.hu/parancs"
+}

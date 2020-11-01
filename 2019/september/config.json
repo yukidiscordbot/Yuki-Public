@@ -1,0 +1,14 @@
+{
+    "token": "token",
+    "prefix": "prefix",
+    "ownerIds": [
+        "yourownid"
+    ],
+    "presence": {
+        "status": "dnd/idle/invisible",
+        "activity": {
+            "name": "${this.config.prefix}help in ${this.client.guilds.size} servers",
+            "type": "PLAYING/WATCHING/LISTENING"
+        }
+    }
+}
