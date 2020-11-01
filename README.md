@@ -2,7 +2,8 @@
 Welcome to the archives of Yuki, you can see here the code behind Yuki from older versions.
 
 **WARNING**: You need to follow the `LICENSE` and agree with it, please note that:
-**You will no receive support for a old version, it is a archive not a up-to-date version.**
+**You will no receive support for a old version, it is a archive not a up-to-date version.** But!
+You will get a custom rare role for yourself.
 
 ## Archived
 https://github.com/yukidiscordbot/Yuki-Public/tree/e6818ea50216f5c7068c12171e9b1ab6480aee7d
