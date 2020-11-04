@@ -1,3 +1,8 @@
+
+## Anti-Piracy Methods
+Yar-har!
+There is a hidden module in the archives to help your bot keep out on any listing server, good luck finding them. :). You are still allowed to edit/modify, and do anything to these **BUT!** You need to credit the author (me) atleast put something like "powered by yukibot.xyz". These piracy methods ONLY WORKS at listing discord servers. Unless, if i give permission to remove these hidden codes.
+
 ## Greetings
 Welcome to the archives of Yuki, you can see here the code behind Yuki from older versions.
 
