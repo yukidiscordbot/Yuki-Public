@@ -3,7 +3,7 @@
 [![Package Version](https://img.shields.io/github/package-json/v/SplitXPlayZ/Yuki-Public)](https://www.npmjs.com)
 
 
-## This repo will likely to remain close-source. Archives will be posted in this repo.
+## This repo will likely to remain close-source (in the future it will be open-source i promise). Archives will be posted in this repo.
 
 ## ▶ Yuki Source Code
 
