@@ -7,7 +7,7 @@
 
 ## ▶ Yuki Source Code
 
-The source code for the bot was under recode. I will make it for dummies.
+The source code for the bot was under recode (and still is). I will make it for dummies.
 (And also the website is will be live with the code).
 
 
@@ -20,11 +20,15 @@ Meanwhile, you can self-host the bot but there is some exepections:
  * Do not claim the code that it was made by you.
 
 
+## ▶ DMCA
+If you were being found out that using my code's source without crediting, or giving a command dedicated to this github will lead you a DMCA takedown. I know it's unbelievable but that how it works, so please keep by the rules and you were good to go!
+
+
 ## ▶ Archives
 Click [archives](https://github.com/yukidiscordbot/Yuki-Public/tree/archives) to get the old version and codes behind Yuki.
 Follow the **LICENSE** on that tree.
 
-**Warning**: The old archives can be unstabled and confirmed that it wasn't working at the moment.
+**Warning**: The old archives can be unstable and confirmed that it wasn't working at the moment.
 
 
 ## ▶ Social Stuff
