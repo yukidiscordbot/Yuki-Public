@@ -14,6 +14,11 @@ The source code for the bot was under recode. I will make it for dummies.
 ## ▶ Setup
 First, rename config.json.example to config.json. Do not host on GitHub.
 
+## ▶ Self-Hosting
+Meanwhile, you can self-host the bot but there is some exepections:
+ * Please credit the author behind the code, or have a specific command to notify your users that you have self-hosted Yuki in any shape or form.
+ * Do not claim the code that it was made by you, or not the original creator (me aka SplitXPlayZ).
+
 
 ## ▶ Archives
 Click [archives](https://github.com/yukidiscordbot/Yuki-Public/tree/archives) to get the old version and codes behind Yuki.
