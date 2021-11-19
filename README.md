@@ -22,7 +22,7 @@ Meanwhile, you can self-host the bot but there is some exepections:
 Click [archives](https://github.com/yukidiscordbot/Yuki-Public/tree/archives) to get the old version and codes behind Yuki.
 Follow the **LICENSE** on that tree.
 
-**Warning**: The old archives can be unstable and confirmed that it wasn't working at the moment.
+**Warning**: The old archives can be unstable and confirmed that it wasn't working at the moment. (temporary fix will be added soon)
 
 
 ## ▶ Social Stuff
