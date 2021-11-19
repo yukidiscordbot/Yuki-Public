@@ -3,8 +3,6 @@
 [![Package Version](https://img.shields.io/github/package-json/v/SplitXPlayZ/Yuki-Public)](https://www.npmjs.com)
 
 
-## This repo will likely to remain close-source (in the future it will be open-source i promise). Archives will be posted in this repo.
-
 ## ▶ Yuki Source Code
 
 The source code for the bot was under recode (and still is). I will make it for dummies.
@@ -18,10 +16,6 @@ First, rename config.json.example to config.json. Do not host on GitHub (if can 
 Meanwhile, you can self-host the bot but there is some exepections:
  * Please credit the author behind the code, or have a specific command to notify your users that you have self-hosted Yuki in any shape or form.
  * Do not claim the code that it was made by you.
-
-
-## ▶ DMCA
-If you were being found out that using my code's source without crediting, or giving a command dedicated to this github will lead you a DMCA takedown. I know it's unbelievable but that how it works, so please keep by the rules and you were good to go!
 
 
 ## ▶ Archives
