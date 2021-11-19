@@ -28,7 +28,7 @@
     "moment-duration-format-frequency": "^1.1.0",
     "moment-timezone": "^0.5.26",
     "figlet": "^1.2.4",
-    "mathjs": "^6.0.4",
+    "mathjs": "^7.5.1",
     "qrcode": "^1.4.2",
     "tempy": "^0.3.0",
     "fortnite": "^4.3.2",
