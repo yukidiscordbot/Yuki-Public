@@ -7,7 +7,7 @@ module.exports = (client) => {
 	const serverQueue = client.queue.get(msg.guild.id);
 	const song = {
 		id: video.id,
-		title: Util.escapeMarkdown(video.title.replace(/&amp;/g, '&').replace(/&gt;/g, '>').replace(/&lt;/g, '<')
+		title: Util.escapeMarkdown(video.title.replace(/&amp;/g, "&").replace(/&gt;/g, ">").replace(/&lt;/g, "<")
           .replace(/&quot;/g, '"')
           .replace(/&OElig;/g, 'Œ')
           .replace(/&oelig;/g, 'œ')
