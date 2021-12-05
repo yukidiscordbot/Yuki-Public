@@ -1,0 +1,8 @@
+{
+    "chat": {
+        "url": "http://api.brainshop.ai/get?bid=id&key=key&uid=[uid]&msg=[msg]",
+        "bid": "bid",
+        "key": "key",
+        "uid": "Username"
+    }
+}
