@@ -4,7 +4,7 @@
   "description": "A large bot over with 100+ commands, and with 6K servers.",
   "main": "server.js",
     "scripts": {
-    "start": "node index.js",
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "engines": {
