@@ -1,10 +1,16 @@
 {
   "name": "Yuki",
   "version": "7.07",
-  "description": "An open source discord bot.",
+  "description": "A large bot over with 100+ commands, and with 6K servers.",
   "main": "server.js",
+    "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "16.*"
+  },
   "dependencies": {
-    "sqlite": "^3.0.3",
     "express": "^4.16.4",
     "node-superfetch": "0.1.9",
     "node-fetch": "^2.6.0",
@@ -45,31 +51,37 @@
     "parse-ms": "^2.0.0",
     "common-tags": "^1.8.0",
     "urban": "^0.3.2",
-    "@tohru/gm": "^1.3.0"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "start": "node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "engines": {
-    "node": "8.x"
-  },
-  "keywords": [
-    "discord",
-    "pollbot",
-    "poll",
-    "bot",
-    "discord",
-    "poll",
-    "bot",
-    "discord",
-    "bot"
-  ],
-  "author": "SplitXPlayZ",
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/SplitXPlayZ/Yuki-Public/issues"
-  },
-  "homepage": "https://yuki-canary.glitch.me"
+    "@tohru/gm": "^1.3.0",
+    "better-sqlite-pool": "^0.1.0",
+    "better-sqlite3": "^7.1.0",
+    "body-parser": "^1.19.0",
+    "canvas": "^2.5.0",
+    "canvas-constructor": "^3.1.0",
+    "chalk": "^2.4.2",
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "enmap": "^5.2.4",
+    "eslint": "^6.0.1",
+    "express": "^4.16.4",
+    "ffmpeg": "^0.0.4",
+    "grpc": "^1.24.10",
+    "humanize-duration": "^3.22.0",
+    "integer": "^4.0.0",
+    "moment": "^2.29.1",
+    "ms": "^2.1.2",
+    "node": "^12.22.1",
+    "node-fetch": "^2.6.0",
+    "node-gyp": "^7.1.2",
+    "node-opus": "^0.3.3",
+    "node-pre-gyp": "^0.17.0",
+    "node-superfetch": "^0.1.10",
+    "path": "^0.12.7",
+    "rebuild": "^0.1.2",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.8",
+    "simple-youtube-api": "^5.1.0",
+    "sqlite": "^3.0.5",
+    "url": "^0.11.0",
+    "ytdl-core": "^4.5.0"
+  }
 }
