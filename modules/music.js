@@ -117,7 +117,7 @@ module.exports = (client) => {
      play(guild, serverQueue.songs[0]);
   });
   console.log(serverQueue)
-  	dispatcher.setVolumeLogarithmic(30 / 100);
+  	dispatcher.setVolumeLogarithmic(serverQueue.volume / 100);
 	                  const emb = new Discord.MessageEmbed()
 					  .setDescription(`**[${song.title}](${song.url})**`, true)
 					  .addField('Uploader', `[${song.uploaded}](${song.channel})`, true)
