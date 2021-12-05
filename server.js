@@ -608,7 +608,7 @@ console.log(song.id)
       	serverQueue.textChannel.send(`<:error:543851339713609745> An error has occurred. Please report this to our support server if the error still continues. (E-**${ec}**)\n\`\`\`${error}\`\`\``).catch()
      play(guild, serverQueue.songs[0]);
   });
-  	dispatcher.setVolumeLogarithmic(35 / 100);
+  	dispatcher.setVolumeLogarithmic(serverQueue.volume / 100);
 	                  const emb = new Discord.MessageEmbed()
                     .setTitle('Now Playing')
 					  .setDescription(`[${song.title}](${song.url})`, true)
