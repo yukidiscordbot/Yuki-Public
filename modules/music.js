@@ -118,7 +118,7 @@ module.exports = (client) => {
   });
   console.log(serverQueue)
   	dispatcher.setVolumeLogarithmic(serverQueue.volume / 100);
-	                  const emb = new Discord.MessageEmbed()
+	const emb = new Discord.MessageEmbed()
 					  .setDescription(`**[${song.title}](${song.url})**`, true)
 					  .addField('Uploader', `[${song.uploaded}](${song.channel})`, true)
 					  .addField('Duration', `${require('./util.js').timeString(song.durationmm)}`, true)
@@ -129,7 +129,6 @@ module.exports = (client) => {
 					  .setImage(`https://i.ytimg.com/vi/${song.id}/maxresdefault.jpg`, true)
                       .setColor(`#8284f4`)
                       .setFooter(`© ${message.author.username} ${version}`, client.user.displayAvatarURL)
- //if (!serverQueue.loop) return serverQueue.textChannel.send(`Now playing **\`${song.title}\`** (**${require('./util.js').timeString(song.durationmm)}**) at position **\`now\`**.`);
  if (!serverQueue.loop) return serverQueue.textChannel.send(emb);
 };
 }
