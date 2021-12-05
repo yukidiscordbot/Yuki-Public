@@ -3,7 +3,7 @@
 [![Package Version](https://img.shields.io/github/package-json/v/yukidiscordbot/Yuki-Public)](https://www.npmjs.com)
 
 
-## ▶ Milestone Source Cdoe
+## ▶ Milestone 1 Beta Source Code
 
 Welcome to Yuki's github page. In this page you can see the code behind Yuki.
 
