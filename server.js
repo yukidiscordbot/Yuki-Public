@@ -1,3 +1,4 @@
+if (process.version < 13) throw new Error('You must upgrade your node version. You need node v13 atleast to run this bot.')
 require('dotenv').config()
 
 const Discord = require('discord.js')
