@@ -8,8 +8,8 @@
 Welcome to Yuki's github page. In this page you can see the code behind Yuki.
 
 
-## ▶ Note
-This version is not recommended to self-host since there is a high possibility that the code will gonna mem-leak your server.
+## ▶ Before Install
+Not finished since this milestone is far away from completed README.
 
-## ▶ Self-Hosting
-Not done yet.
+## ▶ Self-Hosting 
+You cannot self-host this milestone due to major code changes in `integer` that will make the installation error out, the developers are already working on a fix for this package error.
