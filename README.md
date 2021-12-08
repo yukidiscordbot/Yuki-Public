@@ -9,7 +9,7 @@ Welcome to Yuki's github page. In this page you can see the code behind Yuki.
 
 
 ## ▶ Before Install
-You need to install [node](nodejs.org) on your computer, and you also need access to the VPS/computer you are going to self-host on.
+You need to install [node](https://nodejs.org) on your computer, and you also need access to the VPS/computer you are going to self-host on.
 
 ## ▶ Installation
 Linux Systems:
