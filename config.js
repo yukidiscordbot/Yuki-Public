@@ -1,5 +1,5 @@
 const config = {
-  prefix: ["y!"],
+  prefix: ["!"],
   googleAPIToken: ['apikeytoken'],
   blacklist: [],
 
@@ -43,7 +43,7 @@ const config = {
       name: "User",
 
       check: (message) =>
-        !config.blacklisted.includes(message.author.id),
+        !config.blacklisted.includes(message.author.id)
     },
 
     {
@@ -83,3 +83,5 @@ const config = {
     },
   ],
 };
+
+module.exports = config;
