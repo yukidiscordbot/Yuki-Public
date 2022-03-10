@@ -5,14 +5,14 @@ exports.run = async (client, message, args) => {
 
 exports.conf = {
   enabled: true,
-  aliases: ['cmd-alias'],
-  guildOnly: false,
+  aliases: [],
+  guildOnly: true, //no dm support
   permLevels: 'User'
 };
 
 exports.help = {
     name: 'test',
-    category: 'Unknown',
-    description: 'Testing command handler.',
+    category: 'Test',
+    description: 'An example command, to start your advertures with.',
     usage: 'test'
 };
