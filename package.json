@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "express": "^4.16.4",
-    "node-superfetch": "0.1.10",
+    "node-superfetch": "0.2.3",
     "node-fetch": "^2.6.0",
     "discord.js": "^13.3.1",
     "discord.js-commando": "^0.10.0",
