@@ -42,7 +42,7 @@
     "pretty-ms": "^5.0.0",
     "platform": "^1.3.5",
     "steam-provider": "^0.2.0",
-    "jimp": "^0.12.0",
+    "jimp": "^0.16.1",
     "blapi": "^1.2.1",
     "spacebots": "^0.3.2",
     "parse-ms": "^2.0.0",
